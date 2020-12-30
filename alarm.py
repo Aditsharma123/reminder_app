@@ -2,7 +2,7 @@
 """
 Created on Wed Dec 30 08:26:36 2020
 
-@author: Kuldeep Sharma
+@author: Adit Sharma
 """
 
 import winsound
